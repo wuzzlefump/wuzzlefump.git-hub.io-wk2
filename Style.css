@@ -1,0 +1,9 @@
+.meat{
+   background-color: aquamarine;
+
+}
+
+nav-link:hover{
+    opacity: .7;
+    color: gray;
+}
